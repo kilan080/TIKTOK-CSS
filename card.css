@@ -82,7 +82,7 @@ body {
     color: #666;
     transition: .5s ease-in-out;
 }
-.container .card .content a {
+.content a {
     position: relative;
     display: inline-block;
     padding: 10px 20px;
